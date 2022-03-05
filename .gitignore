@@ -1,0 +1,7 @@
+.vscode
+ShapeCalculator/bin
+ShapeCalculator/obj
+ShapeCalculator.ClassLibrary/bin
+ShapeCalculator.ClassLibrary/obj
+ShapeCalculator.Tests/bin
+ShapeCalculator.Tests/obj
